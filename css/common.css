@@ -38,6 +38,9 @@
     line-height: 1.14;
     text-decoration: none;
 }
+.site-nav .link-current{
+    text-decoration: none;  
+}
 .site-nav .link:hover,
 .site-nav .link:focus {
     color: var(--accent-color);
