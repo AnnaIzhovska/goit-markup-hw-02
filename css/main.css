@@ -44,7 +44,8 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.18;
 text-align: center;
-letter-spacing: 0.03em;}
+letter-spacing: 0.03em;
+}
 
 .section-team{
     background-color: #F5F4FA;
@@ -82,4 +83,5 @@ letter-spacing: 0.03em;}
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
+    text-decoration: none;
 }
