@@ -78,7 +78,7 @@ letter-spacing: 0.03em;
 }
 
 /* button */
-.button{
+.hero .button{
     color: var(--primary-white-color);
     background-color: var(--accent-color);
     font-family: Roboto;
