@@ -21,6 +21,7 @@
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
+    letter-spacing: 0.03em;
     text-decoration: none;
 }
 .web{ 
@@ -36,6 +37,7 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
+    letter-spacing: 0.02em;
     text-decoration: none;
 }
 .site-nav .link-current{
@@ -71,5 +73,6 @@ address a{
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
+    font-style: normal;
     text-decoration: none;
 }
