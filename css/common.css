@@ -76,3 +76,6 @@ address a{
     font-style: normal;
     text-decoration: none;
 }
+address .contacts{
+    color: rgba(255, 255, 255, 0.6);
+}
